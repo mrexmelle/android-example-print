@@ -1,4 +1,4 @@
-package tanudjaja.id.android.example.print;
+package id.tanudjaja.android.example.print;
 
 import android.content.Context;
 import android.os.Bundle;
